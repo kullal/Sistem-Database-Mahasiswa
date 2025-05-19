@@ -2,8 +2,7 @@
 
 Aplikasi desktop berbasis Java untuk manajemen data mahasiswa dengan menggunakan arsitektur MVC-DAO (Model-View-Controller-Data Access Object) dan database MySQL.
 
-## Deskripsi Aplika
-si
+## Deskripsi Aplikasi
 
 Sistem Database Mahasiswa adalah aplikasi manajemen data mahasiswa yang memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data mahasiswa. Aplikasi ini menggunakan antarmuka grafis (GUI) yang dibangun dengan Swing di NetBeans IDE.
 
